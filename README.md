@@ -42,7 +42,8 @@ The main objective of this project is to generate and manage invoices in a matte
 | Chrome                   | A cross-platform web browser                                                               |
 | Windows 10               | An operating system for building apps                                                      |
 | PC / Laptop              | Intel based processor-run computer system, which have keyboard and mouse as input devices. |
-|--------------------------|--------------------------------------------------------------------------------------------|
+
+<br>
 
 > _Credits : [Gudi Varaprasad](https://gudivaraprasad.github.io/GVP/)_
 > > _Co-Developer : [Harshith K](https://www.linkedin.com/in/harshith-kanigalpula/)_ 
