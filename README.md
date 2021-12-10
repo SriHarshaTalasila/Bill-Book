@@ -1,6 +1,6 @@
 # WEB BASED BILLING SOFTWARE
 
-![](./Development/Full Stack/bill2.jpg)
+![](./Development/Full%20Stack/bill2.jpg)
 
 ## About Project :
 
@@ -10,19 +10,19 @@ The aim of this project is to make Billing management much easier for Business E
 
 The main objective of this project is to generate and manage invoices in a matter of few seconds in order to avoid a lot of paperwork and Time consuming process by managing huge data manually. This project benefits owners of enterprises as well as customers. This software allows to maintain all the products with their shorthand notation by providing summary reports to the owner, which gives a convenient solution to the billing pattern with a Secured User Authentication and Validation. And also user Giveaway generator whenever offers or discounts are available.
 
-> [Click here](./Project Presentation.pptx) to learn more about this.
+> [Click here](./Project%20Presentation.pptx) to learn more about this.
 
 ## Required Files :
 
 > Project Report : [Click Here](./Project%20Report.pdf)
 
-> SRS Document : [Click Here](./SRS Document.pdf)
+> SRS Document : [Click Here](./SRS%20Document.pdf)
 
-> Project Presentation : [Click Here](./Project Presentation.pptx)
+> Project Presentation : [Click Here](./Project%20Presentation.pptx)
 
 > UML Diagrams : [Click Here](./Design)
 
-> Source Code : [Click Here](./Development/Full Stack)
+> Source Code : [Click Here](./Development/Full%20Stack)
 
 <br>
 
@@ -45,4 +45,5 @@ The main objective of this project is to generate and manage invoices in a matte
 
 # PROJECT DEMO : [Click here](http://bill-book.epizy.com/)
 
-> _Co-Developer : [Harshith K](https://www.linkedin.com/in/harshith-kanigalpula/)_ > _Credits : [Gudi Varaprasad](https://gudivaraprasad.github.io/GVP/)_
+> _Co-Developer : [Harshith K](https://www.linkedin.com/in/harshith-kanigalpula/)_ 
+> > _Credits : [Gudi Varaprasad](https://gudivaraprasad.github.io/GVP/)_
