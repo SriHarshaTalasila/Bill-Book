@@ -45,7 +45,9 @@ The main objective of this project is to generate and manage invoices in a matte
 
 <br>
 
-> _Credits : [Gudi Varaprasad](https://gudivaraprasad.github.io/GVP/)_
+> _Credits : [Gudi Varaprasad](https://gudivaraprasad.github.io)_
 > > _Co-Developer : [Harshith Kanigalpula](https://www.linkedin.com/in/harshith-kanigalpula/)_ 
+
+> > _Documentation Manager : [Harsha Talasila](https://www.linkedin.com/in/sri-harsha-talasila-96b533190/)_ 
  
 # PROJECT DEMO : [Click here](http://bill-book.epizy.com/)
